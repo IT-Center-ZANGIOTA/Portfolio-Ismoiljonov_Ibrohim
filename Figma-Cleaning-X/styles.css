@@ -1,0 +1,112 @@
+.btn-primary {
+  border-radius: 5px;
+}
+
+.navbar button {
+  width: 200px;
+  height: 50px;
+}
+
+.navbar .container ul {
+  margin-left: 400px;
+}
+
+.header .container .row .col-6 .row .col-7 .container {
+  margin-top: -80px;
+  margin-left: 100px;
+}
+
+.header .container .row .col-6 .row .col-5 .btn-primary {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.services .container {
+  padding: 10px;
+}
+
+.services .container .row .col-6 .btn-primary {
+  width: 200px;
+  height: 50px;
+  margin-left: 400px;
+}
+
+.services .container .row .col-6 .btn-light {
+  width: 200px;
+  height: 50px;
+}
+
+.image-player {
+  margin-top: -518px;
+}
+
+.img-bg {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.frame1 .btn-light {
+  width: 200px;
+  height: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.frame2 .container {
+  background-color: #211F54;
+  border-radius: 20px;
+}
+
+.frame2 .image {
+  margin-left: 0px;
+  border-radius: 20px;
+}
+
+.frame2 .col-7 {
+  background-color: #211F54;
+  border: #211F54 2px solid;
+  border-radius: 20px;
+}
+
+.frame2 .image1 {
+  position: absolute;
+  margin-left: -518px;
+}
+
+.frame2 h3 {
+  padding: 10px;
+  margin-top: 150px;
+}
+
+.frame2 .display-6 {
+  margin-top: 50px;
+}
+
+.frame2 .btn-primary {
+  width: 200px;
+  height: 50px;
+  margin-top: 25px;
+}
+
+.frame2 .col-text-white {
+  text-decoration: none;
+  text-align: white;
+}
+
+.frame3 h2 {
+  margin-top: 20px;
+  margin-left: 25px;
+  color: grey;
+}
+
+.frame3 button {
+  width: 200px;
+  height: 50px;
+  margin-left: 215px;
+  margin-top: 70px;
+}
+
+.farme4 .btn-primary {
+  width: 210px;
+  height: 70px;
+}
+/*# sourceMappingURL=styles.css.map */

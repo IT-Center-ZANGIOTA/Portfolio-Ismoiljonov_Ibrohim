@@ -1,0 +1,412 @@
+.body {
+    width: 1435px;
+    height: 1262px;
+    border: 2px solid red;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 10px;
+}
+
+.line1 {
+    width: 1400px;
+    height: 570px;
+    padding: 18px;
+    background-color: rgb(180, 180, 180);
+    .page1 {
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .page2 {
+        margin-left: 350px;
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .page3 {
+        margin-left: 700px;
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .page4 {
+        margin-left: 1050px;
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.line2 {
+    width: 1400px;
+    height: 550px;
+    padding: 18px;
+    background-color: rgb(180, 180, 180);
+    .page5 {
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .page6 {
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        margin-left: 350px;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .page7 {
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        margin-left: 700px;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .page8 {
+        width: 310px;
+        height: 550px;
+        border: 2px solid rgb(168, 232, 213);
+        border-radius: 10px;
+        background-color: rgb(168, 232, 213);
+        position: absolute;
+        margin-left: 1050px;
+        .list {
+            // width: 1000px;
+            // height: 1500px;
+            .box1 {
+                // width: 1000px;
+                .circle {
+                    width: 300px;
+                    height: 300px;
+                    border: 2px solid black;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    .image {
+                        width: 100%;
+                    }
+                }
+                .text1 {
+                    width: 300px;
+                }
+                .box-registrarion {
+                    display: flex;
+                    justify-content: space-between;
+                    .h22 {
+                        // display: flex;
+                        // justify-content: space-between;
+                    }
+                    .button {
+                        // display: flex;
+                        // justify-content: space-between;
+                        width: 150px;
+                        height: 50px;
+                        color: #fff;
+                        background-color: green;
+                        left: 100px;
+                        margin-left: -50px;
+                        border: 2px solid green;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+}
