@@ -1,0 +1,94 @@
+.page {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.stlist {
+  width: 1440px;
+  height: 450px;
+  position: relative;
+}
+
+.stlist .table1 {
+  width: 480px;
+  height: 30px;
+  position: absolute;
+}
+
+.stlist .table1 .h3 {
+  color: #b3b3b3;
+}
+
+.stlist .table1 .text1 {
+  color: #b3b3b3;
+}
+
+.stlist .table1 .button {
+  color: #fff;
+  background-color: blue;
+  border: 2px solid blue;
+  border-radius: 5px;
+  height: 30px;
+  width: 150px;
+}
+
+.stlist .table2 {
+  position: absolute;
+  padding-left: 600px;
+  width: 480px;
+}
+
+.stlist .table2 .text2 {
+  color: #b3b3b3;
+}
+
+.stlist .table2 .text2 {
+  width: 480px;
+  height: 100px;
+}
+
+.stlist .table3 {
+  position: absolute;
+  padding-left: 1100px;
+}
+
+.stlist .table3 .text3 {
+  color: #b3b3b3;
+}
+
+.ndlist {
+  position: relative;
+  width: 1440px;
+  height: 450px;
+}
+
+.ndlist .table4 {
+  position: absolute;
+  width: 480px;
+}
+
+.ndlist .table4 .text4 {
+  color: #b3b3b3;
+}
+
+.ndlist .table5 {
+  position: absolute;
+  padding-left: 600px;
+  width: 480px;
+}
+
+.ndlist .table5 .text5 {
+  color: #b3b3b3;
+}
+
+.ndlist .table6 {
+  position: absolute;
+  padding-left: 1100px;
+  width: 480px;
+}
+
+.ndlist .table6 .text6 {
+  color: #b3b3b3;
+}
+/*# sourceMappingURL=style.css.map */
