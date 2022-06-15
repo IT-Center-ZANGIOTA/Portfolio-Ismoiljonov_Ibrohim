@@ -1,0 +1,678 @@
+.main-page {
+    position: relative;
+    width: 1950px;
+    height: 6419px;
+    background: #ffffff;
+    .window1 {
+        position: relative;
+        width: 1950px;
+        height: 740px;
+        .bc-image {
+            position: absolute;
+        }
+        .logo {
+            position: absolute;
+            width: 60px;
+            height: 60px;
+            left: 405px;
+            top: 20px;
+        }
+        .menu {
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            top: 20px;
+            left: 1465px;
+        }
+        .main-text {
+            position: absolute;
+            color: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            width: 950px;
+            height: 170px;
+            font-size: 64px;
+            left: 500px;
+            top: 100px;
+            .span {
+                margin: 130px;
+
+            }
+        }
+        .paragraph {
+            position: absolute;
+            color: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            width: 734px;
+            height: 22px;
+            left: 800px;
+            top: 350px;
+            font-size: 18px;
+        }
+    }
+
+    .window2 {
+        position: absolute;
+        width: 1110px;
+        height: 300px;
+        left: 405px;
+        top: 590px;
+        background: #F7F7F7;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        .box1 {
+            position: absolute;
+            width: 190px;
+            height: 186px;
+            left: 200px;
+            .number {
+                font-size: 70px;
+                color: orangered;
+            }
+            .age {
+                font-size: 40px;
+            }
+            .comment {
+                font-size: 20px;
+                color: grey;
+            }
+        }
+        .box2 {
+            position: absolute;
+            width: 190px;
+            height: 186px;
+            left: 400px;
+            .number {
+                font-size: 70px;
+                color: orangered;
+            }
+            .age {
+                font-size: 40px;
+            }
+            .comment {
+                font-size: 20px;
+                color: grey;
+            }
+        }
+        .box3 {
+            position: absolute;
+            width: 190px;
+            height: 186px;
+            left: 600px;
+            .number {
+                font-size: 70px;
+                color: orangered;
+            }
+            .age {
+                font-size: 40px;
+            }
+            .comment {
+                font-size: 20px;
+                color: grey;
+            }
+        }
+        .box4 {
+            position: absolute;
+            width: 190px;
+            height: 186px;
+            left: 800px;
+            .number {
+                font-size: 70px;
+                color: orangered;
+            }
+            .age {
+                font-size: 40px;
+            }
+            .comment {
+                font-size: 20px;
+                color: grey;
+            }
+        }
+    }
+
+    .window3 {
+        position: relative;
+        width: 1110px;
+        height: 700px;
+        .m-text {
+            position: absolute;
+            width: 510px;
+            height: 45px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 36px;
+            left: 700px;
+            top: 250px;
+        }
+        .stage-images {
+            position: absolute;
+            width: 1110px;
+            height: 650px;
+            left: 405px;
+            top: 400px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            .image1 {
+                position: absolute;
+                width: 350px;
+                .img1 {
+                    width: 350px;
+                    height: 380px;
+                }
+                .hr1 {
+                    position: absolute;
+                    width: 55px;
+                    height: 2px;
+                    background-color: orangered;
+                    border: 2px solid #F7654A;
+                    left: 0px;
+                    // margin-bottom: 100px;
+                }
+                .medium-text {
+                    font-size: 24px;
+                }
+                .comment {
+                    color: grey;
+                    width: 350px;
+                }
+            }
+            .image2 {
+                position: absolute;
+                left: 380px;
+                .img1 {
+                    width: 350px;
+                    height: 380px;
+                }
+                .hr1 {
+                    position: absolute;
+                    width: 55px;
+                    height: 2px;
+                    background-color: orangered;
+                    border: 2px solid #F7654A;
+                    left: 0px;
+                    // margin-bottom: 100px;
+                }
+                .medium-text {
+                    font-size: 24px;
+                }
+                .comment {
+                    color: grey;
+                    width: 350px;
+                }
+            }
+            .image3 {
+                position: absolute;
+                left: 760px;
+                .img1 {
+                    width: 350px;
+                    height: 380px;
+                }
+                .hr1 {
+                    position: absolute;
+                    width: 55px;
+                    height: 2px;
+                    background-color: orangered;
+                    border: 2px solid #F7654A;
+                    left: 0px;
+                    // margin-bottom: 100px;
+                }
+                .medium-text {
+                    font-size: 24px;
+                }
+                .comment {
+                    color: grey;
+                    width: 350px;
+                }
+            }
+        }
+    }
+
+    .window4 {
+        position: relative;
+        width: 1920px;
+        height: 180px;
+        background-color: #F7654A;
+        top: 280px;
+        .advertisement-text {
+            position: absolute;
+            width: 650px;
+            height: 60px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 40px;
+            color: #F7F7F7;
+            left: 405px;
+        }
+        .comment {
+            position: absolute;
+            width: 570px;
+            height: 30px;
+            color: #F7F7F7;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 20px;
+            left: 405px;
+            top: 70px;
+        }
+        .button {
+            position: absolute;
+            width: 175px;
+            height: 50px;
+            left: 1340px;
+            top: 55px;
+            background-color: #fff;
+        }
+    }
+
+    .window5 {
+        position: relative;
+        width: 1110px;
+        height: 640px;
+        left: 405px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        top: 350px;
+        .top-text {
+            position: absolute;
+            width: 400px;
+            height: 45px;
+            font-size: 35px;
+            left: 450px;
+        }
+        .boxes {
+            position: relative;
+            width: 1110px;
+            height: 600px;
+            top: 100px;
+            .box1 {
+                position: absolute;
+                width: 350px;
+                height: 250px;
+                background-color: rgb(224, 224, 224);
+                .stroy-image {
+                    position: absolute;
+                    width: 60px;
+                    height: 40px;
+                    left: 160px;
+                    top: 50px;
+                }
+                .stroy-text {
+                    position: absolute;
+                    width: 170px;
+                    height: 65px;
+                    top: 100px;
+                    left: 100px;
+                }
+            }    
+            .box2 {
+                position: absolute;
+                width: 350px;
+                height: 250px;
+                left: 400px;
+                background-color: rgb(224, 224, 224);
+                .stroy-image {
+                    position: absolute;
+                    width: 60px;
+                    height: 40px;
+                    left: 160px;
+                    top: 50px;
+                }
+                .stroy-text {
+                    position: absolute;
+                    width: 170px;
+                    height: 65px;
+                    top: 100px;
+                    left: 100px;
+                }
+            }
+            .box3 {
+                position: absolute;
+                width: 350px;
+                height: 250px;
+                left: 800px;
+                background-color: rgb(224, 224, 224);
+                .stroy-image {
+                    position: absolute;
+                    width: 60px;
+                    height: 40px;
+                    left: 160px;
+                    top: 50px;
+                }
+                .stroy-text {
+                    position: absolute;
+                    width: 170px;
+                    height: 65px;
+                    top: 100px;
+                    left: 100px;
+                }
+            }
+            .box4 {
+                position: absolute;
+                width: 350px;
+                height: 250px;
+                top: 280px;
+                background-color: rgb(224, 224, 224);
+                .stroy-image {
+                    position: absolute;
+                    width: 60px;
+                    height: 40px;
+                    left: 160px;
+                    top: 50px;
+                }
+                .stroy-text {
+                    position: absolute;
+                    width: 170px;
+                    height: 65px;
+                    top: 100px;
+                    left: 100px;
+                }
+            }
+            .box5 {
+                position: absolute;
+                width: 350px;
+                height: 250px;
+                background-color: rgb(224, 224, 224);
+                top: 280px;
+                left: 400px;
+                .stroy-image {
+                    position: absolute;
+                    width: 60px;
+                    height: 40px;
+                    left: 160px;
+                    top: 50px;
+                }
+                .stroy-text {
+                    position: absolute;
+                    width: 170px;
+                    height: 65px;
+                    top: 100px;
+                    left: 100px;
+                }
+            }
+            .box6 {
+                position: absolute;
+                width: 350px;
+                height: 250px;
+                background-color: rgb(224, 224, 224);
+                top: 280px;
+                left: 800px;
+                .stroy-image {
+                    position: absolute;
+                    width: 60px;
+                    height: 40px;
+                    left: 160px;
+                    top: 50px;
+                }
+                .stroy-text {
+                    position: absolute;
+                    width: 170px;
+                    height: 65px;
+                    top: 100px;
+                    left: 100px;
+                }
+            }
+        }
+    }
+
+    .window6 {
+        position: relative;
+        top: 450px;
+        .img1 {
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    .window7 {
+        position: relative;
+        width: 750px;
+        height: 460px;
+        left: 405px;
+        top: 700px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        .main-text {
+            position: absolute;
+            width: 450px;
+            height: 55px;
+            right: 0px;
+            font-size: 35px;
+        }
+        .answers {
+            position: absolute;
+            width: 750px;
+            height: 440px;
+            top: 150px;            
+            .answer1 {
+                position: absolute;
+                // left: 100px;
+                color: #F7654A;
+            }
+            .answer2 {
+                position: absolute;
+                top: 60px;
+                color: #F7654A;
+            }
+
+            .comment {
+                position: absolute;
+                top: 100px;
+                color: grey;
+                width: 550px;
+                height: 85px;
+            }
+
+            .answer3 {
+                position: absolute;
+                top: 230px;
+                color: #F7654A;
+            }
+            .answer4 {
+                position: absolute;
+                top: 300px;
+                color: #F7654A;
+            }
+        }
+    }
+
+    .window8 {
+        position: relative;
+        width: 1920px;
+        height: 365px;
+        background-color: #404149;
+        top: 850px;
+        .partners-text {
+            position: absolute;
+            width: 260px;
+            height: 45px;
+            color: #fff;
+            font-size: 35px;
+            left: 800px;
+        }
+        .images {
+            position: absolute;
+            width: 1105px;
+            height: 65px;
+            left: 405px;
+            top: 150px;
+            display: flex;
+            .partner-img1 {
+                position: absolute;
+                display: flex;
+            }
+            .partner-img2 {
+                position: absolute;
+                left: 200px;
+                display: flex;
+            }
+            .partner-img3 {
+                position: absolute;
+                left: 400px;
+                display: flex;
+            }
+            .partner-img4 {
+                position: absolute;
+                left: 600px;
+                display: flex;
+            }
+            .partner-img5 {
+                position: absolute;
+                left: 800px;
+                display: flex;
+            }
+            
+        }
+    }
+
+    .window9 {
+        position: relative;
+        width: 1110px;
+        height: 440px;
+        left: 405px;
+        top: 900px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        .review {
+            position: absolute;
+            width: 600px;
+            height: 60px;
+            left: 260px;
+            font-size: 35px;
+        }
+        .boxes {
+            position: absolute;
+            width: 1110px;
+            height: 420px;
+            top: 150px;
+            .box1 {
+                position: absolute;
+                width: 350px;
+                height: 260px;
+                .comment {
+                    .span {
+                        color: #F7654A;
+                    }
+                }
+            }
+            .box2 {
+                position: absolute;
+                width: 350px;
+                height: 260px;
+                left: 400px;
+                .comment {
+                    .span {
+                        color: #F7654A;
+                    }
+                }
+            }
+            .box3 {
+                position: absolute;
+                width: 350px;
+                height: 260px;
+                left: 800px;
+                .comment {
+                    .span {
+                        color: #F7654A;
+                    }
+                }
+            }
+        }
+    }
+
+    .window10 {
+        
+        position: relative;
+        width: 1920px;
+        height: 180px;
+        background-color: #F7654A;
+        top: 1000px;
+        .advertisement-text {
+            position: absolute;
+            width: 650px;
+            height: 60px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 40px;
+            color: #F7F7F7;
+            left: 405px;
+        }
+        .comment {
+            position: absolute;
+            width: 570px;
+            height: 30px;
+            color: #F7F7F7;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 20px;
+            left: 405px;
+            top: 70px;
+        }
+        .button {
+            position: absolute;
+            width: 175px;
+            height: 50px;
+            left: 1340px;
+            top: 55px;
+            background-color: #fff;
+        }
+    
+    }
+
+    .window11 {
+        position: relative;
+        width: 1110px;
+        height: 305px;
+        left: 405px;
+        top: 1100px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        .contacting {
+            position: absolute;
+            width: 200px;
+            height: 60px;
+            font-size: 35px;
+            left: 550px;
+        }
+        .boxes {
+            position: absolute;
+            width: 1110px;
+            height: 280px;
+            top: 200px;
+            .box1 {
+                position: absolute;
+                // left: 200px;
+                width: 250px;
+                font-size: 24px;
+            }
+            .box2 {
+                position: absolute;
+                left: 350px;
+                font-size: 24px;
+            }
+            .box3 {
+                position: absolute;
+                left: 700px;
+                font-size: 24px;
+            }
+            .box4 {
+                position: absolute;
+                left: 1000px;
+                font-size: 24px;
+                .comment {
+                    color: #F7654A;
+                }
+            }
+        }
+    }
+
+    .window12 {
+        position: relative;
+        width: 1920px;
+        height: 85px;
+        background-color: #404149;
+        top: 1500px;
+        .paragraph1 {
+            position: absolute;
+            width: 355px;
+            font-size: 22px;
+            color: #fff;
+            left: 400px;
+        }
+        .paragraph2 {
+            position: absolute;
+            width: 255px;
+            font-size: 16px;
+            color: #fff;
+            left: 1300px;
+            top: 10px;
+        }
+    }
+}
