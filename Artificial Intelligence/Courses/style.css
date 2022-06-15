@@ -1,0 +1,52 @@
+body {
+    background-color: #ECF5F0;
+}
+
+p,
+h3,
+hr {
+    margin: 0;
+}
+
+.satr {
+    display: inline-block;
+}
+
+.chiziqcha {
+    color: green;
+}
+
+.card {
+    width: 160px;
+    display: inline-block;
+    padding: 1rem;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin: 1rem;
+    height: 170px;
+}
+
+.lessontime {
+    font-size: 8px;
+}
+
+.lduration {
+    font-size: 20px;
+}
+
+.lesson {
+    display: flex;
+}
+
+.lesson div {
+    margin-right: 2rem;
+}
+
+.lcost {
+    font-size: 25px;
+    width: 250px;
+}
+
+.divcard {
+    margin: 0;
+}

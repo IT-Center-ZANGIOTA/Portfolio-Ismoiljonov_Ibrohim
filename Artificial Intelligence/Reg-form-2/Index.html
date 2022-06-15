@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="forma">
+        <form action="main.py" method="get">
+            <p>
+                <label for="frame">Ismingiz: </label>
+                <br>
+                <input type="text" id="frame" placeholder="Ismingizni yozing">
+                <br>
+                <label for="lname">Familiyangiz: </label>
+                <br>
+                <input type="text" id="lname" placeholder="Familiyangizni yozing">
+                <br>
+                <label>Yoshingiz:</label>
+                <br>
+                <input name=age type=number min=0>
+                <br>
+                <label>Passport seriyasi va raqami</label>
+                <br>
+                <input name=pc>
+
+            </p>
+            <p><b>Yoqtirgan fanlarni tanlang</b></p>
+            <p><input type="checkbox" id="check1"><label for="check1">Matematika</label>
+                <br>
+                <input type="checkbox" id="check2"><label for="check2">Informatika</label>
+                <br>
+                <input type="checkbox" id="check3"><label for="check3">Ingliz tili</label>
+                <br>
+                <input type="checkbox" id="check4"><label for="check4">Ona tili</label>
+                <br>
+                <input type="checkbox" id="check5"><label for="check5">Tarix</label>
+            </p>
+            <button type="submit">Yuborish</button>
+            <button type="reset">Yangidan boshlash</button>
+        </form>
+    </section>
+</body>
+
+</html>
