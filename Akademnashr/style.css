@@ -84,6 +84,7 @@
 }
 
 .hero {
+    top: 75px;
     max-width: 1440px;
     height: 550px;
     position: relative;
