@@ -19,8 +19,9 @@
             color: rgb(179, 179, 179);
         }
         .button {
+            text-decoration: none;
             color: #fff;
-             background-color: aliceblue;
+            background-color: aliceblue;
             border: 2px solid aliceblue;
             border-radius: 5px;
             height: 30px;
@@ -29,7 +30,7 @@
     }
     .table2 {
         position: absolute;
-        padding-left: 600px;
+        left: 600px;
         width: 480px;
         .text2 {
             color: rgb(179, 179, 179);
@@ -41,7 +42,7 @@
     }
     .table3 {
         position: absolute;
-        padding-left: 1100px;
+        left: 1100px;
         .text3 {
             color: rgb(179, 179, 179);
         }
