@@ -24,15 +24,8 @@
 }
 
 .frame .frame1 .button {
-  width: 166px;
-  height: 56px;
-  left: 0%;
-  right: 0%;
-  top: 0px;
-  border: 2px solid #FFFFFF;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  border-radius: 0px;
+  font-size: 25px;
+  border: 2px solid #FFFFFF;  
 }
 
 .frame .rectangle {
