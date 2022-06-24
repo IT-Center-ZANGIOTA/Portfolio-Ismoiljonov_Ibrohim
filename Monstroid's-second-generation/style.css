@@ -81,12 +81,13 @@
 
 .ndlist .table5 .text5 {
   color: #b3b3b3;
+  width: 400px;
 }
 
 .ndlist .table6 {
   position: absolute;
-  padding-left: 1100px;
   width: 480px;
+  margin-left: 1100px;
 }
 
 .ndlist .table6 .text6 {
